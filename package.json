@@ -1,0 +1,29 @@
+{
+  "name": "nodexpress",
+  "version": "1.0.0",
+  "description": "NodeJs with Express using EJS as View Engine",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.3",
+    "cookie-parser": "~1.4.4",
+    "debug": "~4.1.1",
+    "express": "~4.16.4",
+    "morgan": "~1.9.1",
+    "nodemon": "~1.18.10",
+    "ejs": "~2.6.1",
+    "serve-favicon": "~2.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwisadaid/NodExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwisadaid/NodExpress/issues"
+  },
+  "homepage": "https://github.com/dwisadaid/NodExpress#readme"
+}
